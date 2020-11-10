@@ -1,2 +1,6 @@
 - Created Local Repository
 - Create file to track
+- Commit to our local 
+- create an external Repo
+- connect local and remote repo - git remote add
+- git push (upload)
